@@ -1,7 +1,7 @@
 ---
 description: NFT Game of Mining Power Battle  on Harmony Network
 coverY: 0
-cover: .gitbook/assets/download.jpg
+cover: .gitbook/assets/oren-service-page-header (1).jpeg
 ---
 
 # Mining Battle NFT Game
