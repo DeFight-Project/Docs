@@ -3,9 +3,9 @@ description: NFT Game of Mining Power Battle  on Harmony Network
 coverY: 0
 ---
 
-# Getting Started
+# Mining Battle NFT Game
 
-Defight Project Proposal&#x20;
+## Defight Project Proposal&#x20;
 
 The central idea at the core of this game is to involve the entire harmony community and its main and most serious network projects, giving its investment and governance tokens yet another utility in a game environment . Game users will be able to form their own mining setups within the battle NFT. Each xToken will be responsible for one of the attributes of the Card that will be used in battle. Think of it as a robot battle where each competitor has their advantages and disadvantages, faster, stronger, fire resistant, etc.
 
