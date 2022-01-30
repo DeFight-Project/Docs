@@ -1,2 +1,2 @@
-# Docs
-Documentation about project
+# Getting Started
+
